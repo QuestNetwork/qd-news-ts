@@ -50,7 +50,7 @@ Pro Tip: Put a file in your `/bin` that runs the quest-cli like so `node /path/t
 
 ## Features
 
-**0.9.6**
+**0.9.7**
 - Basic functionality
 
 ## License
